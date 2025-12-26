@@ -1,0 +1,29 @@
+{
+  "sessions": [
+    {
+      "date": "2025-12-25",
+      "start_time": "16:10",
+      "end_time": "16:10",
+      "duration_minutes": 0.2431297
+    },
+    {
+      "date": "2025-12-25",
+      "start_time": "16:29",
+      "end_time": "16:30",
+      "duration_minutes": 0.42419308333333333
+    },
+    {
+      "date": "2025-12-25",
+      "start_time": "16:32",
+      "end_time": "16:32",
+      "duration_minutes": 0.18748288333333332
+    },
+    {
+      "date": "2025-12-25",
+      "start_time": "16:35",
+      "end_time": "16:50",
+      "duration_minutes": 15.25264795
+    }
+  ],
+  "current_session_start": null
+}
