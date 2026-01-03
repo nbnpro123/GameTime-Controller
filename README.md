@@ -119,4 +119,4 @@ Email: prohorovict39@gmail.com
 
 GitHub: github.com/nbnpro123
 
-Telegram: @timofeyProh
+tg: https://t.me/timofeyProh
